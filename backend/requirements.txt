@@ -1,0 +1,11 @@
+Flask
+PyMuPDF
+python-dotenv
+numpy
+pandas
+requests
+pathway
+litellm
+transformers
+google-generativeai
+joblib
